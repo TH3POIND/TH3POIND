@@ -1,6 +1,6 @@
 --[[
-BY : TshAkETEAM
-Channel Files : https://t.me/tshakeFiles
+BY : BWINDTEAM
+Channel Files : https://t.me/BWINDTEAM
 ]]
 
 local function keko_tshake(data)
@@ -963,7 +963,7 @@ end
   🚹┇المقيدين
   🚹┇مسح المقيدين
   ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉
-  📡┇Ch ~⪼ @TshakeTeam
+  📡┇Ch ~⪼ @BWINDTEAM
 ]]
   send(msg.chat_id_, msg.id_, 1, (hres or text), 1, 'md')
      end
@@ -973,7 +973,7 @@ return {
     keko_tshake = keko_tshake,
 }
 --[[
- BY : TshAkETEAM
- Channel Files : https://t.me/tshakeFiles
+ BY : BWINDTEAM
+ Channel Files : https://t.me/BWINDTEAM
 ]]
     
