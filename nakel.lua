@@ -197,7 +197,7 @@ end
     adress = matches[2]
     name = matches[3]
     load_document(msg.reply_id, save_file_reply, {msg=msg,name=name,adress=adress})
-        return 'الملف '..name..' ✅ تم ارساله الى المجلد: \n📂 '..adress
+        return 'الملف '..name..' ✅ جاري رفع الملف: \n📂 '..adress
     end 
 end
 	    -------------Dl file Via Bot    -------------
