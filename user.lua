@@ -1,6 +1,6 @@
 --[[
-BY : TshAkETEAM
-Channel Files : https://t.me/tshakeFiles
+BY : ORGINALTEAM
+Channel Files : https://t.me/BIO_II2
 ]]
 local function keko_tshake(data)
 local msg = data.message_
@@ -74,5 +74,5 @@ return {
 }
 --[[
 BY : TshAkETEAM
-Channel Files : https://t.me/tshakeFiles
+Channel Files : https://t.me/BIO_II2
 ]]
